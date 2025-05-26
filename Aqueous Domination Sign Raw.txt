@@ -1,0 +1,132 @@
+pancartes de Water Battle (trouver un meilleur nom frl frl) 
+
+
+Intro - Pancarte et dans le chat on launch:
+"[i:4447] [i:4447] [i:4447] [C/FFFFFF: Welcome to] [C/34C9EB: Aqueous Domination] [i:4447] [i:4447] [i:4447] "
+[i:4447] [C/FFFFFF:Fight using liquids and high explosives and ] [i:4447] [i:4447]
+[i:4447] [C/34C9EB:Dominate] [C/FFFFFF:the capture points to increase your score] 
+
+
+Explication du lobby:
+[i:4459] [i:4459] [i:4459] [C/34C9EB:Lobby Explanation] [i:4459] [i:4459] [i:4459]
+[i:4459] [C/FFFFFF:First make sure to] [C/34C9EB:Reset] [C/FFFFFF:the game using the lever]
+[i:4459] [C/FFFFFF:in the lobby.] 
+
+[i:4459] [C/FFFFFF:Then, chose a team:] [C/FF00FF:Purple] [C/FFFFFF:on your left, ]
+[i:4459] [C/FFFFFF:or ][C/FF0000:Red] [C/FFFFFF:on your right.]
+
+[i:4459] [C/FFFFFF:After that, chose a ][C/34C9EB:Class][C/FFFFFF:, equip the armor and]
+[i:4459] [C/FFFFFF:accessories then wait until everyone is ready]
+
+[i:4459] [C/FFFFFF:Once everyone on your team is ready, you can]
+[i:4459] [C/FFFFFF:activate the ready lever in your team waiting room]
+
+[i:4459] [C/FFFFFF:When both teams are ready the floor will open to a ]
+[i:4459] [C/FFFFFF:teleporter and the ][C/34C9EB:game will begin] 
+
+
+Explication Jeu:
+[i:4448] [i:4448] [i:4448] [C/34C9EB:Game Rules] [i:4448] [i:4448] [i:4448]
+
+[i:4448] [C/FFFFFF:This is a] [C/34C9EB:domination] [C/FFFFFF:game, you need to] [C/34C9EB:capture and]
+[i:4448] [C/34C9EB:hold] [C/FFFFFF:domination points to win the game] 
+
+[i:4448] [C/A00000:Kills do not contribute to your score.] 
+
+[i:4448] [C/FFFFFF:The] [C/FF00FF:Purple team] [C/FFFFFF:uses water to capture domination]
+[i:4448] [C/FFFFFF:points, while] [C/FF0000:Red] [C/FFFFFF:needs to keep those points empty]
+[i:4448] [C/FFFFFF:to fill their side's] [C/34C9EB:Hourglass.]
+
+[i:4448] [C/FFFFFF:A point] [C/34C9EB:Full of water] [C/FFFFFF:will give points to] [C/FF00FF:Purple][C/FFFFFF:, an] 
+[i:4448] [C/34C9EB:Empty point] [C/FFFFFF:will give points to] [C/FF0000:Red] [C/FFFFFF:and a] [C/34C9EB:Half-Full] 
+[i:4448] [C/34C9EB:point] [C/FFFFFF:will not contribute points.]
+ 
+
+
+
+[i:4459] [i:4459] [i:4459] [C/34C9EB:Journey Mode Settings] [i:4459] [i:4459] [i:4459]
+[i:4459] [C/34C9EB:Time:][C/FFFFFF: Noon + Frozen]
+[i:4459] [C/34C9EB:Weather:][C/FFFFFF: No wind or rain + Change disabled]
+[i:4459] [C/FFFFFF:God Mode] [C/A00000:Off]
+[i:4459] [C/34C9EB:Enemy Spawn Rate:][C/FFFFFF: x0]
+[i:4459] [C/34C9EB:Difficulty:][C/FFFFFF: Journey]
+
+
+
+- - - Max Out Your Hp! - - -
+- - - Set your team to Red- -
+- - - Enable PvP - - - - - -
+
+- - - Max Out Your Hp! - - - 
+- - - Set your team to Purple-
+- - - Enable PvP - - - - - - 
+
+- - - Trash your starting items - - -
+
+
+- - - Open all 4 chests to unlock the lever - - -
+
+
+Class explications:
+HEAVY:
+
+The Heavy is a very resilient, but not very mobile class who gets to wield the long range Rocket Launcher
+
+The frozen shield doesn't only make the heavy resilient but also absorbs parts of the damage your teammates take, increasing their resilience
+
+With the charm of myth and sweetheart necklace, this character has by far the most regen of any class
+
+
+SCOUT:
+The Scout is a very mobile, tricky character with the high fire rate Grenade Launcher
+
+Their mobility is next to none thanks to the Shield of Cthulhu and their quadruple jump granted by the Bundle of Balloons
+
+The Grenade Launcher has a high fire rate but low range, making it very good at capturing points. use your high mobility to catch up to your opponents and bypass your range disadvantage
+
+TRAPPER:
+
+The Trapper places mines and waits for their opponent to fall onto them using the Proximity Mine Launcher 
+
+The Proximity Mine Launcher has a terribly low fire rate and does little damage at first, but once your mines are in place, they are very hard to see and deal unparalleled damage.
+
+Their long and fast Tabi dash grants them great horizontal mobility, at the cost of a poor vertical options, their Fledging Wings and Rocket Boots
+
+
+
+
+
+System Text:
+[c/FF00FF: Purple Team Ready]
+
+[C/FF0000: Red Team Ready]
+
+[i:4459] [C/34C9EB:Both Teams Ready!] [i:4459]
+
+[i:4459] [C/A00000:Players Get Ready!] [i:4459]
+
+[i:4459] [C/fff600:Set...] [i:4459]
+
+[i:4459] [C/13ff00:GO!] [i:4459]
+
+[i:4448] [i:4448] [i:4448] [C/ff7700:Game Reseting, please wait...] [i:4448] [i:4448] [i:4448]
+
+[i:4448] [i:4448] [i:4448] [C/ff7700:Reset Complete!] [i:4448] [i:4448] [i:4448] 
+
+[i:4447] [i:4447] [i:4447] [c/FF00FF: Purple Team at] [C/34C9EB:33%] [i:4447] [i:4447] [i:4447]
+
+[i:4447] [i:4447] [i:4447] [c/FF00FF: Purple Team at] [C/34C9EB:66%] [i:4447] [i:4447] [i:4447]
+
+[i:4447] [i:4447] [i:4447] [c/FF00FF: Purple Team] [C/34C9EB:WINS!] [i:4447] [i:4447] [i:4447]
+
+[i:4448] [i:4448] [i:4448] [c/FF0000: Red Team at] [C/34C9EB:33%] [i:4448] [i:4448] [i:4448]
+
+[i:4448] [i:4448] [i:4448] [c/FF0000: Red Team at] [C/34C9EB:66%] [i:4448] [i:4448] [i:4448]
+
+[i:4448] [i:4448] [i:4448] [c/FF0000: Red Team] [C/34C9EB:WINS!] [i:4448] [i:4448] [i:4448]
+
+
+
+
+
+
