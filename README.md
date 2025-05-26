@@ -1,4 +1,4 @@
-  **Aqueous Domination**
+  **AQUEOUS DOMINATION**
 
 Experience 3-point Domination in Vanilla Terraria with this PVP experience.
 
