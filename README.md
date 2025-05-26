@@ -30,7 +30,7 @@ You can find the world file "AqueousDomination v1.0.wrld". Go to .../Terraria/Wo
 
 Reboot Terraria if you can not find it.
 
-Otherwise you can go through the Steam workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3442873557 
+Otherwise you can go through the Steam workshop [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=3442873557) 
 
 Open it in multiplayer, get a friend and start shooting!
 
